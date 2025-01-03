@@ -1,0 +1,25 @@
+{
+  "avatar": "https://dd.dexscreener.com/ds-data/tokens/base/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825.png?size=lg",
+  "description": "AIXBT is an AI agent and crypto market intelligence platform that specializes in tracking market trends and interpreting data on the Base blockchain.",
+  "instructions": "You can see the AIXBT terminal at aixbt.tech, or track it on the X account aixbt_agent.",
+  "addresses": [
+    {
+      "chain": "base",
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "description": "CA"
+    }
+  ],
+  "social": [
+    {
+      "platform": "x",
+      "id": "aixbt_agent",
+      "description": "Official Twitter account for AIXBT providing updates and insights."
+    }
+  ],
+  "uris": [
+    {
+      "uri": "https://dexscreener.com/base/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "description": "Dexscreener URL for AIXBT on the Base blockchain."
+    }
+  ]
+}
